@@ -60,7 +60,7 @@
                     <h4 class="font-bold mb-4 text-indigo-600">Quick Info</h4>
                     <ul class="space-y-3">
                         <li><i class="fa fa-envelope mr-3 text-slate-400"></i> amruthalurivamsi07@gmail.com</li>
-                        <li><i class="fa fa-phone mr-3 text-slate-400"></i> +91 9912286377</li>
+                        <li><i class="fa fa-phone mr-3 text-slate-400"></i> +91 9912286377,9603059090</li>
                         <li><i class="fa fa-map-marker-alt mr-3 text-slate-400"></i> Vijayawada, AP</li>
                     </ul>
                 </div>
